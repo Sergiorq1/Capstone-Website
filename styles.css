@@ -1,0 +1,24 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://images.unsplash.com/photo-1534050359320-02900022671e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTB8fHNhbiUyMGZyYW5jaXNjbyUyMGNoaW5hdG93biUyMGJhcmJlcnNob3B8ZW58MHx8MHw%3D&auto=format&fit=crop&w=800&q=60');
+    background-size: cover;
+    color: aliceblue;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    scroll-behavior: smooth;
+}
+
+.footer{
+    background-color: lightgray;
+}
+.masthead{
+    color: black;
+    font-size: x-large;
+    position: relative;
+    
+}
